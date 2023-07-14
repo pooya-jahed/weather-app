@@ -1,0 +1,33 @@
+{
+  "cSpell.language": "en,fa-IR",
+  "editor.fontFamily": "IntelOne Mono",
+  "editor.fontSize": 26,
+  "files.autoSave": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript][typescript]": {
+    "editor.fontFamily": "IntelOne Mono",
+
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.linkedEditing": true,
+    "workbench.colorTheme": "Darcula",
+    "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
+    "editor.wordWrap": "on",
+    "security.workspace.trust.untrustedFiles": "open"
+  },
+
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.keywords": [
+    {
+      "text": "BUG",
+      "color": "#333",
+      "backgroundcolor": "#e74c3c"
+    }
+  ]
+}
