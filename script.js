@@ -71,7 +71,7 @@ form.addEventListener("submit", (event) => {
   // prevent from load our page
   event.preventDefault();
   let inputValue = input.value;
-// :)
+  const key = "65ae17089f5a0b81780d8d81fed97333";
   const urlLocation = `http://api.openweathermap.org/geo/1.0/direct?q=${inputValue}&limit=5&appid=${key}`;
   let countryN;
   let statN;
